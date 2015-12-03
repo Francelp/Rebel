@@ -4,7 +4,7 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="f4527759dc3f48e9bd2c263d12fbdae7" Name="Diagram1">
+      <Diagram DiagramId="54d73ca598204b69bf2c02e5e6221004" Name="Diagram1">
         <EntityTypeShape EntityType="RebellionDataModel.Group" Width="1.5" PointX="0.75" PointY="2.375" IsExpanded="true" />
         <EntityTypeShape EntityType="RebellionDataModel.Mission" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
         <EntityTypeShape EntityType="RebellionDataModel.Rebel" Width="1.5" PointX="3" PointY="3.75" IsExpanded="true" />

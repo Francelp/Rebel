@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5E3B15E6-3955-4012-8D75-6D4B835018DD}</ProjectGuid>
+    <ProjectGuid>{747350C7-2FDD-418B-98AB-C6822E2ECA0C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>RebellionDataBaseLibrary</RootNamespace>
@@ -50,52 +50,53 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Group.cs">
-      <DependentUpon>RebellionDataModel.tt</DependentUpon>
+      <DependentUpon>RebellionModel.tt</DependentUpon>
     </Compile>
     <Compile Include="Mission.cs">
-      <DependentUpon>RebellionDataModel.tt</DependentUpon>
+      <DependentUpon>RebellionModel.tt</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Rebel.cs">
-      <DependentUpon>RebellionDataModel.tt</DependentUpon>
+      <DependentUpon>RebellionModel.tt</DependentUpon>
     </Compile>
-    <Compile Include="RebellionDataModel.Context.cs">
+    <Compile Include="RebellionModel.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>RebellionDataModel.Context.tt</DependentUpon>
+      <DependentUpon>RebellionModel.Context.tt</DependentUpon>
     </Compile>
-    <Compile Include="RebellionDataModel.cs">
+    <Compile Include="RebellionModel.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>RebellionDataModel.tt</DependentUpon>
+      <DependentUpon>RebellionModel.tt</DependentUpon>
     </Compile>
-    <Compile Include="RebellionDataModel.Designer.cs">
+    <Compile Include="RebellionModel.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>RebellionDataModel.edmx</DependentUpon>
+      <DependentUpon>RebellionModel.edmx</DependentUpon>
     </Compile>
+    <Compile Include="SelectFromDatabase.cs" />
   </ItemGroup>
   <ItemGroup>
-    <EntityDeploy Include="RebellionDataModel.edmx">
+    <EntityDeploy Include="RebellionModel.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>RebellionDataModel.Designer.cs</LastGenOutput>
+      <LastGenOutput>RebellionModel.Designer.cs</LastGenOutput>
     </EntityDeploy>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.Config" />
     <None Include="packages.config" />
-    <None Include="RebellionDataModel.Context.tt">
+    <None Include="RebellionModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>RebellionDataModel.edmx</DependentUpon>
-      <LastGenOutput>RebellionDataModel.Context.cs</LastGenOutput>
+      <DependentUpon>RebellionModel.edmx</DependentUpon>
+      <LastGenOutput>RebellionModel.Context.cs</LastGenOutput>
     </None>
-    <None Include="RebellionDataModel.edmx.diagram">
-      <DependentUpon>RebellionDataModel.edmx</DependentUpon>
+    <None Include="RebellionModel.edmx.diagram">
+      <DependentUpon>RebellionModel.edmx</DependentUpon>
     </None>
-    <None Include="RebellionDataModel.tt">
+    <None Include="RebellionModel.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>RebellionDataModel.edmx</DependentUpon>
-      <LastGenOutput>RebellionDataModel.cs</LastGenOutput>
+      <DependentUpon>RebellionModel.edmx</DependentUpon>
+      <LastGenOutput>RebellionModel.cs</LastGenOutput>
     </None>
   </ItemGroup>
   <ItemGroup>
