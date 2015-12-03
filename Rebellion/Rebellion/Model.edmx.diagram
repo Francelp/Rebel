@@ -4,7 +4,7 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="25bc6e98430b4ee897829086734648f7" Name="Diagram1">
+      <Diagram DiagramId="25bc6e98430b4ee897829086734648f7" Name="Diagram1" ZoomLevel="93">
         <EntityTypeShape EntityType="AdventureWorks2008R2Model.AWBuildVersion" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
         <EntityTypeShape EntityType="AdventureWorks2008R2Model.DatabaseLog" Width="1.5" PointX="2.75" PointY="1.5" IsExpanded="true" />
         <EntityTypeShape EntityType="AdventureWorks2008R2Model.ErrorLog" Width="1.5" PointX="4.75" PointY="1.5" IsExpanded="true" />
@@ -74,7 +74,7 @@
         <EntityTypeShape EntityType="AdventureWorks2008R2Model.SpecialOffer" Width="1.5" PointX="12" PointY="38" IsExpanded="true" />
         <EntityTypeShape EntityType="AdventureWorks2008R2Model.SpecialOfferProduct" Width="1.5" PointX="14.25" PointY="29.5" IsExpanded="true" />
         <EntityTypeShape EntityType="AdventureWorks2008R2Model.Store" Width="1.5" PointX="9.75" PointY="74.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="AdventureWorks2008R2Model.ProductDocument" Width="1.5" PointX="8.25" PointY="56.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2008R2Model.ProductDocument" Width="1.5" PointX="5.625" PointY="56.625" IsExpanded="true" />
         <AssociationConnector Association="AdventureWorks2008R2Model.FK_EmployeeDepartmentHistory_Department_DepartmentID" ManuallyRouted="false" />
         <AssociationConnector Association="AdventureWorks2008R2Model.FK_Employee_Person_BusinessEntityID" ManuallyRouted="false" />
         <AssociationConnector Association="AdventureWorks2008R2Model.FK_EmployeeDepartmentHistory_Employee_BusinessEntityID" ManuallyRouted="false" />
