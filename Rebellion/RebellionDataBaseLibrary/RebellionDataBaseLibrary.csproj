@@ -74,7 +74,8 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>RebellionModel.edmx</DependentUpon>
     </Compile>
-    <Compile Include="SelectFromDatabase.cs" />
+    <Compile Include="Select\SelectFromDatabase.cs" />
+    <Compile Include="Select\SelectRebelByID.cs" />
   </ItemGroup>
   <ItemGroup>
     <EntityDeploy Include="RebellionModel.edmx">
