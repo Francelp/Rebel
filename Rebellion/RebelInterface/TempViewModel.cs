@@ -27,6 +27,8 @@ namespace RebelInterface
         }
 
 
+
+
         public event PropertyChangedEventHandler PropertyChanged;
 
         private void onPropertyChanged(string propertyName)
