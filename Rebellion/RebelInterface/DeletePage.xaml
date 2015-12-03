@@ -14,7 +14,7 @@
             <RowDefinition />
         </Grid.RowDefinitions>
 
-        <TextBlock FontSize="25" Text="Remove Rebel" Grid.Row="0" TextAlignment="Center" VerticalAlignment="Center"/>
+        <TextBlock FontSize="25" Text="Remove Rebel" Grid.Row="0" TextAlignment="Center" VerticalAlignment="Center" Foreground="DarkGray" />
         
         <Grid Grid.Row="1">
 
