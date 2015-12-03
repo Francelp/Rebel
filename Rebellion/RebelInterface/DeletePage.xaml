@@ -27,9 +27,9 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
             <TextBox Margin="10,10" />
-            <Button Content="Add" Margin="10,10,10,10" Grid.Row="0" Grid.Column="1" />
+            <Button Content="Annihilate" Margin="10,10,10,10" Grid.Row="0" Grid.Column="1" />
             <TextBox Margin="10,10" Grid.Row="1" Grid.Column="0" />
-            <Button Content="Delete" Margin="10,10,10,10" Grid.Row="1" Grid.Column="1" />
+            <Button Content="Finish Off" Margin="10,10,10,10" Grid.Row="1" Grid.Column="1" />
 
         </Grid>
 
