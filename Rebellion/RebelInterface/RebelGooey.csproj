@@ -53,6 +53,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="SalesOrderDetails.cs" />
+    <Compile Include="SearchFrameViewModel.cs" />
+    <Compile Include="UserDetails.cs" />
     <Page Include="AddPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -76,6 +79,7 @@
     <Compile Include="AddPage.xaml.cs">
       <DependentUpon>AddPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="AddRebelViewModel.cs" />
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -83,9 +87,11 @@
     <Compile Include="DeletePage.xaml.cs">
       <DependentUpon>DeletePage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="DeleteRebelViewModel.cs" />
     <Compile Include="EditPage.xaml.cs">
       <DependentUpon>EditPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="EditRebelViewModel.cs" />
     <Compile Include="FindPage.xaml.cs">
       <DependentUpon>FindPage.xaml</DependentUpon>
     </Compile>
