@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Delete\DeleteRebelByID.cs" />
     <Compile Include="Group.cs">
       <DependentUpon>RebellionModel.tt</DependentUpon>
     </Compile>
@@ -75,6 +76,8 @@
       <DependentUpon>RebellionModel.edmx</DependentUpon>
     </Compile>
     <Compile Include="Select\SelectFromDatabase.cs" />
+    <Compile Include="Select\SelectGroupByID.cs" />
+    <Compile Include="Select\SelectMissionByID.cs" />
     <Compile Include="Select\SelectRebelByID.cs" />
   </ItemGroup>
   <ItemGroup>

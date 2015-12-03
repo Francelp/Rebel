@@ -1,4 +1,0 @@
-C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\Entity\bin\Debug\Entity.dll
-C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\Entity\bin\Debug\Entity.pdb
-C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\Entity\obj\Debug\Entity.dll
-C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\Entity\obj\Debug\Entity.pdb
