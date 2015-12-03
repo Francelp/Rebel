@@ -4,3 +4,9 @@ C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\WCFRebelLibrary\bin\Debug\WCFReb
 C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\WCFRebelLibrary\obj\Debug\WCFRebelLibrary.csprojResolveAssemblyReference.cache
 C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\WCFRebelLibrary\obj\Debug\WCFRebelLibrary.dll
 C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\WCFRebelLibrary\obj\Debug\WCFRebelLibrary.pdb
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\WCFRebelLibrary\bin\Debug\WCFRebelLibrary.dll.config
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\WCFRebelLibrary\bin\Debug\WCFRebelLibrary.dll
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\WCFRebelLibrary\bin\Debug\WCFRebelLibrary.pdb
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\WCFRebelLibrary\obj\Debug\WCFRebelLibrary.csprojResolveAssemblyReference.cache
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\WCFRebelLibrary\obj\Debug\WCFRebelLibrary.dll
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\WCFRebelLibrary\obj\Debug\WCFRebelLibrary.pdb
