@@ -1,0 +1,13 @@
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebelInterface\bin\Debug\RebelInterface.exe.config
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebelInterface\bin\Debug\RebelInterface.exe
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebelInterface\bin\Debug\RebelInterface.pdb
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebelInterface\obj\Debug\RebelGooey.csprojResolveAssemblyReference.cache
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebelInterface\obj\Debug\MainWindow.baml
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebelInterface\obj\Debug\MainWindow.g.cs
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebelInterface\obj\Debug\App.g.cs
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebelInterface\obj\Debug\RebelInterface_MarkupCompile.cache
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebelInterface\obj\Debug\RebelInterface.g.resources
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebelInterface\obj\Debug\RebelInterface.Properties.Resources.resources
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebelInterface\obj\Debug\RebelGooey.csproj.GenerateResource.Cache
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebelInterface\obj\Debug\RebelInterface.exe
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebelInterface\obj\Debug\RebelInterface.pdb

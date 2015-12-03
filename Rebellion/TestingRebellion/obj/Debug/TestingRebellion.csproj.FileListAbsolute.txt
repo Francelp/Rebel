@@ -1,0 +1,5 @@
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\TestingRebellion\bin\Debug\TestingRebellion.dll
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\TestingRebellion\bin\Debug\TestingRebellion.pdb
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\TestingRebellion\obj\Debug\TestingRebellion.csprojResolveAssemblyReference.cache
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\TestingRebellion\obj\Debug\TestingRebellion.dll
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\TestingRebellion\obj\Debug\TestingRebellion.pdb

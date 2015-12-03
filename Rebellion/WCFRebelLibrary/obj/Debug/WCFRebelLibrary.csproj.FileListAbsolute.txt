@@ -1,0 +1,6 @@
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\WCFRebelLibrary\bin\Debug\WCFRebelLibrary.dll.config
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\WCFRebelLibrary\bin\Debug\WCFRebelLibrary.dll
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\WCFRebelLibrary\bin\Debug\WCFRebelLibrary.pdb
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\WCFRebelLibrary\obj\Debug\WCFRebelLibrary.csprojResolveAssemblyReference.cache
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\WCFRebelLibrary\obj\Debug\WCFRebelLibrary.dll
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\WCFRebelLibrary\obj\Debug\WCFRebelLibrary.pdb

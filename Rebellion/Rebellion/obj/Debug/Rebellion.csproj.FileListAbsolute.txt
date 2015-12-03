@@ -1,0 +1,10 @@
+C:\Users\hannah.mohamed\Desktop\Seeing Sharp\ADO\EntityFrameWork\Rebellion\Rebellion\bin\Debug\Rebellion.exe.config
+C:\Users\hannah.mohamed\Desktop\Seeing Sharp\ADO\EntityFrameWork\Rebellion\Rebellion\obj\Debug\Rebellion.csprojResolveAssemblyReference.cache
+C:\Users\hannah.mohamed\Desktop\Seeing Sharp\ADO\EntityFrameWork\Rebellion\Rebellion\bin\Debug\Rebellion.exe
+C:\Users\hannah.mohamed\Desktop\Seeing Sharp\ADO\EntityFrameWork\Rebellion\Rebellion\bin\Debug\Rebellion.pdb
+C:\Users\hannah.mohamed\Desktop\Seeing Sharp\ADO\EntityFrameWork\Rebellion\Rebellion\bin\Debug\EntityFramework.dll
+C:\Users\hannah.mohamed\Desktop\Seeing Sharp\ADO\EntityFrameWork\Rebellion\Rebellion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hannah.mohamed\Desktop\Seeing Sharp\ADO\EntityFrameWork\Rebellion\Rebellion\bin\Debug\EntityFramework.xml
+C:\Users\hannah.mohamed\Desktop\Seeing Sharp\ADO\EntityFrameWork\Rebellion\Rebellion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hannah.mohamed\Desktop\Seeing Sharp\ADO\EntityFrameWork\Rebellion\Rebellion\obj\Debug\Rebellion.exe
+C:\Users\hannah.mohamed\Desktop\Seeing Sharp\ADO\EntityFrameWork\Rebellion\Rebellion\obj\Debug\Rebellion.pdb
