@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RebellionDataBaseModel", "Rebellion\RebellionDataBaseModel.csproj", "{A2FF3E77-A818-4CFE-AF45-48EEAEBF8175}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RebelGooey", "RebelInterface\RebelGooey.csproj", "{BE177B9D-5465-4924-8B82-32FB77E7B528}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFRebelLibrary", "WCFRebelLibrary\WCFRebelLibrary.csproj", "{097E1B6D-D960-4464-B4CD-A3599D530DFC}"
@@ -13,16 +11,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingRebellion", "Testing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REBELEntity", "REBELEntity\REBELEntity.csproj", "{98880C3D-BD0B-4417-AD88-201426075964}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RebellionDataBaseLibrary", "RebellionDataBaseLibrary\RebellionDataBaseLibrary.csproj", "{5E3B15E6-3955-4012-8D75-6D4B835018DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A2FF3E77-A818-4CFE-AF45-48EEAEBF8175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A2FF3E77-A818-4CFE-AF45-48EEAEBF8175}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A2FF3E77-A818-4CFE-AF45-48EEAEBF8175}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A2FF3E77-A818-4CFE-AF45-48EEAEBF8175}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BE177B9D-5465-4924-8B82-32FB77E7B528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BE177B9D-5465-4924-8B82-32FB77E7B528}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE177B9D-5465-4924-8B82-32FB77E7B528}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +35,10 @@ Global
 		{98880C3D-BD0B-4417-AD88-201426075964}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98880C3D-BD0B-4417-AD88-201426075964}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98880C3D-BD0B-4417-AD88-201426075964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E3B15E6-3955-4012-8D75-6D4B835018DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3B15E6-3955-4012-8D75-6D4B835018DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3B15E6-3955-4012-8D75-6D4B835018DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3B15E6-3955-4012-8D75-6D4B835018DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
