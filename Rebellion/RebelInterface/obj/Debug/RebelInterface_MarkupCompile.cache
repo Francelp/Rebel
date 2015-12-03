@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\App.xaml
-2-920730819
+6-876785668
 
-6-1509211988
+11-1719147391
 12-1401562060
-Find.xaml;MainWindow.xaml;
+AddPage.xaml;DeletePage.xaml;EditPage.xaml;FindPage.xaml;HomePage.xaml;MainWindow.xaml;
 
 False
 

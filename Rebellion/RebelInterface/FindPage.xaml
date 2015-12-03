@@ -10,6 +10,7 @@
     <Grid Background="#802A2A">
         <Grid.RowDefinitions>
             <RowDefinition Height="50"/>
+            <!--This is the top of the page-->
             <RowDefinition >
             </RowDefinition>
         </Grid.RowDefinitions>
