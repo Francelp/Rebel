@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebelInterface\obj\Debug\
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\
 RebelInterface
 none
 false
 DEBUG;TRACE
-C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebelInterface\App.xaml
-11151548125
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\App.xaml
+5-182750085
 
-9-598210263
+13235488067
 12-1401562060
-MainWindow.xaml;
+AddPage.xaml;DeletePage.xaml;EditPage.xaml;FindPage.xaml;MainWindow.xaml;
 
 False
 
