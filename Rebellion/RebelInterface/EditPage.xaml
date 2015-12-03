@@ -9,25 +9,26 @@
 
     <Grid Background="#802A2A">
         <Grid.RowDefinitions>
-            <RowDefinition Height="50"/> <!--This is the top of the page--> 
+            <RowDefinition Height="50"/>
+            <!--This is the top of the page-->
             <RowDefinition />
         </Grid.RowDefinitions>
 
         <TextBlock Text="Edit Rebel" FontSize="25" Grid.Row="0" TextAlignment="Center" VerticalAlignment="Center"/>
-        
+
         <Grid Grid.Row="1">
-            
+
             <Grid.RowDefinitions>
                 <RowDefinition Height="*"/>
-                <RowDefinition Height="*"/>              
+                <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
-        
+
             <TextBox Grid.Row="0"  Margin="10,10" />
             <TextBlock Text=" Enter Rebel ID" Margin="10,10" TextAlignment="Left" VerticalAlignment="Center" Foreground="LightGray"/>
             <Button Grid.Row="1"  Margin="10,10" Content="Edit Rebel" Background="LightGray"/>
-            
+
         </Grid>
-        
-        
+
+
     </Grid>
 </Page>

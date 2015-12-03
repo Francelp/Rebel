@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 
 namespace RebelInterface
 {
-    public class TempViewModel :INotifyPropertyChanged
+    public class TempViewModel : INotifyPropertyChanged
     {
         private string _source;
         public string source
         {
             get { return _source; }
-            set 
-            { 
+            set
+            {
                 _source = value;
                 onPropertyChanged("source");
             }
@@ -25,7 +25,6 @@ namespace RebelInterface
             source = "HomePage.xaml";
 
         }
-
 
 
 
