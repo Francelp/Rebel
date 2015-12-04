@@ -15,3 +15,10 @@ C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\TestingRebellion\bin\Debug\Entit
 C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\TestingRebellion\bin\Debug\TestingRebellion.dll.config
 C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\TestingRebellion\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\TestingRebellion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\TestingRebellion\bin\Debug\TestingRebellion.dll.config
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\TestingRebellion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\TestingRebellion\bin\Debug\RebellionDataBaseLibrary.dll
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\TestingRebellion\bin\Debug\EntityFramework.dll
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\TestingRebellion\bin\Debug\RebellionDataBaseLibrary.pdb
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\TestingRebellion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\TestingRebellion\bin\Debug\EntityFramework.xml

@@ -20,6 +20,7 @@ namespace RebelInterface
                 onPropertyChanged("source");
             }
         }
+
         public TempViewModel()
         {
             source = "HomePage.xaml";
