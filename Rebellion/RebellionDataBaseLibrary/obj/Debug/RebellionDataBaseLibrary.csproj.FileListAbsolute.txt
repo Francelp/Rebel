@@ -8,3 +8,13 @@ C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebellionDataBaseLibrary\bin\Deb
 C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebellionDataBaseLibrary\obj\Debug\RebellionDataBaseLibrary.dll
 C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebellionDataBaseLibrary\obj\Debug\RebellionDataBaseLibrary.pdb
 C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebellionDataBaseLibrary\obj\Debug\RebellionDataBaseLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Piotr.Berezowski\Desktop\Test\Rebellion\RebellionDataBaseLibrary\bin\Debug\RebellionDataBaseLibrary.dll.config
+C:\Users\Piotr.Berezowski\Desktop\Test\Rebellion\RebellionDataBaseLibrary\bin\Debug\RebellionDataBaseLibrary.dll
+C:\Users\Piotr.Berezowski\Desktop\Test\Rebellion\RebellionDataBaseLibrary\bin\Debug\RebellionDataBaseLibrary.pdb
+C:\Users\Piotr.Berezowski\Desktop\Test\Rebellion\RebellionDataBaseLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Piotr.Berezowski\Desktop\Test\Rebellion\RebellionDataBaseLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Piotr.Berezowski\Desktop\Test\Rebellion\RebellionDataBaseLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Piotr.Berezowski\Desktop\Test\Rebellion\RebellionDataBaseLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Piotr.Berezowski\Desktop\Test\Rebellion\RebellionDataBaseLibrary\obj\Debug\RebellionDataBaseLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Piotr.Berezowski\Desktop\Test\Rebellion\RebellionDataBaseLibrary\obj\Debug\RebellionDataBaseLibrary.dll
+C:\Users\Piotr.Berezowski\Desktop\Test\Rebellion\RebellionDataBaseLibrary\obj\Debug\RebellionDataBaseLibrary.pdb
