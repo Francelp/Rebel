@@ -6,23 +6,23 @@ using System.Threading.Tasks;
 
 namespace RebellionDataBaseLibrary.Select
 {
-    public class SelectRebelByID
+    public class SelectGroupByID
     {
-        public string FindRebel(int id)
+        public string FindGroup(int id)
         {
             try
             {
                 int ID = id;
-                string codename = String.Empty;
+                string groupName = String.Empty;
                 using (var context = new RebellionDataEntities())
                 {
-                    codename = context.Rebels.Find(ID).code_name;
+                    groupName = context.Groups.Find(ID).group_name;
                 }
-                return codename;
+                return groupName;
             }
             catch (Exception)
             {
-                
+
                 throw;
             }
         }

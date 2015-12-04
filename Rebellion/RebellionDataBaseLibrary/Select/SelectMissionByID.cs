@@ -6,23 +6,23 @@ using System.Threading.Tasks;
 
 namespace RebellionDataBaseLibrary.Select
 {
-    public class SelectRebelByID
+    public class SelectMissionByID
     {
-        public string FindRebel(int id)
+        public string FindMission(int id)
         {
             try
             {
                 int ID = id;
-                string codename = String.Empty;
+                string missionName = String.Empty;
                 using (var context = new RebellionDataEntities())
                 {
-                    codename = context.Rebels.Find(ID).code_name;
+                    missionName = context.Missions.Find(ID).mission_name;
                 }
-                return codename;
+                return missionName;
             }
             catch (Exception)
             {
-                
+
                 throw;
             }
         }
