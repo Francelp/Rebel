@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RebellionDataBaseLibrary.Select
+namespace RebellionDataBaseLibrary.Delete
 {
-    public class SelectRebelByID
+    class DeleteRebelByID
     {
-        public string FindRebel(int id)
+        public static string DeleteRebel(int id)
         {
             try
             {
@@ -16,13 +16,19 @@ namespace RebellionDataBaseLibrary.Select
                 string codename = String.Empty;
                 using (var context = new RebellionDataEntities())
                 {
-                    codename = context.Rebels.Find(ID).code_name;
+                    List<Rebel> rebelList = context.Rebels.Where<Rebel>(t => t.rebel_id == ID).ToList();
+                    foreach (Rebel rebel in rebelList)
+                    {
+                        codename = context.Rebels.Find(ID).code_name;
+                        context.Rebels.Remove(rebel);
+                    }
+                context.SaveChanges();
                 }
                 return codename;
             }
             catch (Exception)
             {
-                
+
                 throw;
             }
         }
