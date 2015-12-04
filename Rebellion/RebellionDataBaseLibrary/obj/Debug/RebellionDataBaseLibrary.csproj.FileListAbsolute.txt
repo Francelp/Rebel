@@ -1,1 +1,10 @@
 C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebellionDataBaseLibrary\obj\Debug\RebellionDataBaseLibrary.csprojResolveAssemblyReference.cache
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebellionDataBaseLibrary\bin\Debug\RebellionDataBaseLibrary.dll.config
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebellionDataBaseLibrary\bin\Debug\RebellionDataBaseLibrary.dll
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebellionDataBaseLibrary\bin\Debug\RebellionDataBaseLibrary.pdb
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebellionDataBaseLibrary\bin\Debug\EntityFramework.dll
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebellionDataBaseLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebellionDataBaseLibrary\bin\Debug\EntityFramework.xml
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebellionDataBaseLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebellionDataBaseLibrary\obj\Debug\RebellionDataBaseLibrary.dll
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebellionDataBaseLibrary\obj\Debug\RebellionDataBaseLibrary.pdb

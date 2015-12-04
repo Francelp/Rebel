@@ -53,8 +53,13 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Command.cs" />
+    <Compile Include="HomePage.xaml.cs">
+      <DependentUpon>HomePage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="SalesOrderDetails.cs" />
     <Compile Include="SearchFrameViewModel.cs" />
+    <Compile Include="TempViewModel.cs" />
     <Compile Include="UserDetails.cs" />
     <Page Include="AddPage.xaml">
       <SubType>Designer</SubType>
@@ -71,6 +76,10 @@
     <Page Include="FindPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="HomePage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>

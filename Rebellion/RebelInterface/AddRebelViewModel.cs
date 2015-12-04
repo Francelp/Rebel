@@ -25,7 +25,7 @@ namespace RebelGooey
         {
             get { return _name; }
             set { _name = value;
-              On
+            
             }
         }
         

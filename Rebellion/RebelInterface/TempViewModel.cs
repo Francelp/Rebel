@@ -4,8 +4,9 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Input;
 
-namespace RebelInterface
+namespace RebelGooey
 {
     public class TempViewModel : INotifyPropertyChanged
     {
@@ -19,14 +20,12 @@ namespace RebelInterface
                 onPropertyChanged("source");
             }
         }
-
-        
-
         public TempViewModel()
         {
             source = "HomePage.xaml";
 
         }
+
 
 
 

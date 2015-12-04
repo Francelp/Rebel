@@ -29,3 +29,15 @@ C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\F
 C:\Users\Piotr.Berezowski\Desktop\Test\Rebellion\RebelInterface\bin\Debug\RebelInterface.exe.config
 C:\Users\Piotr.Berezowski\Desktop\Test\Rebellion\RebelInterface\obj\Debug\RebelInterface.exe
 C:\Users\Piotr.Berezowski\Desktop\Test\Rebellion\RebelInterface\obj\Debug\RebelInterface.pdb
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\AddPage.baml
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\DeletePage.baml
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\EditPage.baml
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\FindPage.baml
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\HomePage.baml
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\AddPage.g.cs
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\DeletePage.g.cs
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\EditPage.g.cs
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\FindPage.g.cs
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\HomePage.g.cs
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\RebelInterface_MarkupCompile.lref
