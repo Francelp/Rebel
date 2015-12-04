@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace RebellionDataBaseLibrary.Select
 {
-    class SelectGroupByID
+    public class SelectGroupByID
     {
-        public static string FindGroup(int id)
+        public string FindGroup(int id)
         {
             try
             {

@@ -7,3 +7,4 @@ C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebellionDataBaseLibrary\bin\Deb
 C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebellionDataBaseLibrary\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebellionDataBaseLibrary\obj\Debug\RebellionDataBaseLibrary.dll
 C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebellionDataBaseLibrary\obj\Debug\RebellionDataBaseLibrary.pdb
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\RebellionDataBaseLibrary\obj\Debug\RebellionDataBaseLibrary.csprojResolveAssemblyReference.cache

@@ -8,3 +8,10 @@ C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\TestingRebellion\bin\Debug
 C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\TestingRebellion\obj\Debug\TestingRebellion.csprojResolveAssemblyReference.cache
 C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\TestingRebellion\obj\Debug\TestingRebellion.dll
 C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\TestingRebellion\obj\Debug\TestingRebellion.pdb
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\TestingRebellion\bin\Debug\RebellionDataBaseLibrary.dll
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\TestingRebellion\bin\Debug\RebellionDataBaseLibrary.pdb
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\TestingRebellion\bin\Debug\EntityFramework.dll
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\TestingRebellion\bin\Debug\EntityFramework.xml
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\TestingRebellion\bin\Debug\TestingRebellion.dll.config
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\TestingRebellion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hannah.mohamed\Desktop\Rebel\Rebellion\TestingRebellion\bin\Debug\EntityFramework.SqlServer.xml

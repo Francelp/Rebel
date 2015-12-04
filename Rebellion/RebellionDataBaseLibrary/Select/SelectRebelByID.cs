@@ -8,7 +8,7 @@ namespace RebellionDataBaseLibrary.Select
 {
     public class SelectRebelByID
     {
-        public static string FindRebel(int id)
+        public string FindRebel(int id)
         {
             try
             {
