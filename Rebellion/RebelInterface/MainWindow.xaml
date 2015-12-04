@@ -1,7 +1,12 @@
 ﻿<Window x:Class="RebelInterface.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:viewModel="clr-namespace:RebelInterface"
         Title="MainWindow" Height="350" Width="525">
+    
+    <Window.DataContext>
+        <viewModel:TempViewModel/>
+    </Window.DataContext>
     
     <Frame Source="{Binding souce}" NavigationUIVisibility="Hidden"/>
     

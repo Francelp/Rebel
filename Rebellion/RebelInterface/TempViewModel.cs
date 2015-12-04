@@ -20,6 +20,8 @@ namespace RebelInterface
             }
         }
 
+        
+
         public TempViewModel()
         {
             source = "HomePage.xaml";
@@ -29,7 +31,6 @@ namespace RebelInterface
 
 
         public event PropertyChangedEventHandler PropertyChanged;
-
         private void onPropertyChanged(string propertyName)
         {
             if (PropertyChanged != null)

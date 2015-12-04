@@ -33,3 +33,5 @@ C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\D
 C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\EditPage.g.cs
 C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\FindPage.g.cs
 C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\HomePage.baml
+C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\HomePage.g.cs
