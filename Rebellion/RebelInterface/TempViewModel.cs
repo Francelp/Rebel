@@ -20,6 +20,7 @@ namespace RebelGooey
                 onPropertyChanged("source");
             }
         }
+
         public TempViewModel()
         {
             source = "HomePage.xaml";
