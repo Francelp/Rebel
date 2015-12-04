@@ -26,3 +26,6 @@ C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\R
 C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\RebelInterface.pdb
 C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\Find.baml
 C:\Users\francel.herrera\Source\Repos\Rebel\Rebellion\RebelInterface\obj\Debug\Find.g.cs
+C:\Users\Piotr.Berezowski\Desktop\Test\Rebellion\RebelInterface\bin\Debug\RebelInterface.exe.config
+C:\Users\Piotr.Berezowski\Desktop\Test\Rebellion\RebelInterface\obj\Debug\RebelInterface.exe
+C:\Users\Piotr.Berezowski\Desktop\Test\Rebellion\RebelInterface\obj\Debug\RebelInterface.pdb
